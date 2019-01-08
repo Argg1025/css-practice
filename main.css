@@ -1,0 +1,54 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.mid-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.one{
+    background: red;
+    margin:10px;
+    height: 200px;
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size:50px;
+}
+.two{
+    background: green;
+    margin:10px;
+    height: 400px;
+    width:100%;
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size:50px;
+}
+.three{
+    background: yellow;
+    margin:10px;
+    height: 400px;
+    width:100%;
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size:50px;
+}
+.four{
+    background: blue;
+    margin:10px;
+    height: 200px;
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    font-size:50px;  
+}
